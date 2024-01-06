@@ -1,0 +1,5 @@
+#misc
+.env
+
+#migrations
+/orders/migrations/0*
